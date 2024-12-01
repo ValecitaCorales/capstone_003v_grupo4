@@ -1,0 +1,10 @@
+Pillow
+pandas
+openpyxl
+xlrd
+oracledb
+pdfplumber
+python-dotenv
+ttkthemes
+cryptography
+plyer
